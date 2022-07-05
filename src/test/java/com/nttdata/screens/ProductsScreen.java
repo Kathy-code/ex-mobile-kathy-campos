@@ -1,4 +1,6 @@
 package com.nttdata.screens;
 
-public class ProductsScreen {
+import net.thucydides.core.pages.PageObject;
+
+public class ProductsScreen extends PageObject {
 }

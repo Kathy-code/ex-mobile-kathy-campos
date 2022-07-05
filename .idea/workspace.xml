@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ab3acfcc-078c-4870-b243-385183399851" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nttdata/screens/LoginScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nttdata/screens/LoginScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nttdata/screens/ProductsScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nttdata/screens/ProductsScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nttdata/steps/SwaglabsLoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nttdata/steps/SwaglabsLoginSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
